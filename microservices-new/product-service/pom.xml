@@ -9,7 +9,7 @@
   </parent>
   <artifactId>product-service</artifactId>
 	<groupId>com.psd</groupId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>Product Service </name>
 	<description>Demo project for Spring Boot</description>
 	
